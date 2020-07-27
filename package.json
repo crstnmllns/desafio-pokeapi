@@ -1,0 +1,7 @@
+{
+  "name": "desafio-pokeapi-1",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
